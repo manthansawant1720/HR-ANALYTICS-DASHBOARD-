@@ -45,3 +45,4 @@ The primary goal of this dashboard is to diagnose the attrition problem by visua
 
 7. Screenshot / Demos
 The current visualization  effectively demonstrates the data hierarchy and the power of visual analytics in identifying trends at a glance.
+![Dashboard preview](https://github.com/manthansawant1720/HR-ANALYTICS-DASHBOARD-/blob/main/Screenshot%202025-10-25%20011934.png)
