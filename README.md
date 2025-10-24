@@ -45,6 +45,3 @@ The primary goal of this dashboard is to diagnose the attrition problem by visua
 
 7. Screenshot / Demos
 The current visualization  effectively demonstrates the data hierarchy and the power of visual analytics in identifying trends at a glance.
-
-***
-Do you want to focus on a specific area, like the **Technology Stack** or the **Business Impact**, for a deeper dive?
